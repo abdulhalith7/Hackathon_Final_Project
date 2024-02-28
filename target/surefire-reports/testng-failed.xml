@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC_003_ForEnterpriseTest">
+        <methods>
+          <include name="setInstituteDetails"/>
+          <include name="clickSubmitButton"/>
+          <include name="teardown"/>
+          <include name="verifyEmailId"/>
+          <include name="setCountryState"/>
+          <include name="setDepartmentDetails"/>
+          <include name="setup"/>
+          <include name="SetJobRole"/>
+        </methods>
+      </class> <!-- testCases.TC_003_ForEnterpriseTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
