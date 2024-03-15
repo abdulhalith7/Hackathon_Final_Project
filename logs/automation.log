@@ -1,225 +1,329 @@
-12:34:45.011 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_001_WebDevelopmentTest ****
-12:34:48.818 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_002_LanguageLearningTest ****
-12:34:49.361 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_003_ForEnterpriseTest ****
-12:36:46.902 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_001_WebDevelopmentTest ****
-12:36:50.939 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course Name Sent Successfully
-12:36:59.960 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked on Search Button
-12:37:01.684 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Subject
-12:37:02.626 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked English Language
-12:37:03.004 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Specific
-12:37:04.011 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Begginer CheckBox
-12:37:04.505 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Filter
-12:37:07.453 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
-12:37:08.467 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To First Course Name
-12:37:16.312 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course One
-12:37:16.511 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course One
-12:37:16.822 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To Parent Page
-12:37:18.161 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
-12:37:19.231 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Second Course Page
-12:37:25.589 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled till Financial
-12:37:25.927 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course Two
-12:37:26.193 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course Two
-12:37:26.359 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Parent Page
-12:37:26.359 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_001_WebDevelopmentTest ****
-12:37:26.959 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_002_LanguageLearningTest ****
-12:37:28.677 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Cleared The Course Name And Entered New Course
-12:37:30.938 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Search Button
-12:37:31.462 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Science
-12:37:32.056 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Show More in Language CheckBox
-12:37:33.096 [main] INFO  testCases.TC_001_WebDevelopmentTest - Unclicking The English Language
-12:37:37.239 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printing Total
-12:37:37.471 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Close Button in All Language Box
-12:37:38.114 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till University CheckBox
-12:37:39.030 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed All The Levels
-12:37:39.030 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finished TC_002_LanguageLearningTest ****
-12:37:39.393 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_003_ForEnterpriseTest ****
-12:37:47.276 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicking the Title Icon To naviage Back
-12:37:48.278 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till the Bottom of the Page
-12:38:00.624 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicking the ForEnterPrise Link
-12:38:01.767 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till More in the Bottom
-12:38:06.578 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked What We Offer Link
-12:38:07.018 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till the Coursera for Campus
-12:38:14.066 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Learn More Link
-12:38:15.205 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till the Haeding beside The Input Box
-12:38:15.852 [main] INFO  testCases.TC_001_WebDevelopmentTest - FirstName is Entered Successfully
-12:38:16.250 [main] INFO  testCases.TC_001_WebDevelopmentTest - LastName is Entered Successfully
-12:38:17.025 [main] INFO  testCases.TC_001_WebDevelopmentTest - Email is Entered Successfully
-12:38:18.012 [main] INFO  testCases.TC_001_WebDevelopmentTest - Phone Number is Entered Successfully
-13:16:54.986 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_001_WebDevelopmentTest ****
-13:17:25.849 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course Name Sent Successfully
-13:17:33.428 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked on Search Button
-13:17:33.991 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Subject
-13:17:34.533 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked English Language
-13:17:35.261 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Specific
-13:17:35.637 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Begginer CheckBox
-13:17:35.896 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Filter
-13:17:38.527 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
-13:17:39.351 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To First Course Name
-13:17:46.501 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course One
-13:17:46.722 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course One
-13:17:46.818 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To Parent Page
-13:17:47.837 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
-13:17:48.469 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Second Course Page
-13:17:54.557 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled till Financial
-13:17:55.213 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course Two
-13:17:55.354 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course Two
-13:17:55.509 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Parent Page
-13:17:55.510 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_001_WebDevelopmentTest ****
-13:17:55.995 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_002_LanguageLearningTest ****
-13:17:58.375 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Cleared The Course Name And Entered New Course
-13:17:59.226 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Search Button
-13:18:00.304 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Science
-13:18:01.004 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Show More in Language CheckBox
-13:18:02.601 [main] INFO  testCases.TC_001_WebDevelopmentTest - Unclicking The English Language
-13:18:08.082 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printing Total
-13:18:08.273 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Close Button in All Language Box
-13:18:08.885 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till University CheckBox
-13:18:09.995 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed All The Levels
-13:18:09.995 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finished TC_002_LanguageLearningTest ****
-13:18:10.763 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_003_ForEnterpriseTest ****
-13:18:19.637 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicking the Title Icon To naviage Back
-13:18:20.272 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till the Bottom of the Page
-13:18:33.022 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicking the ForEnterPrise Link
-13:18:34.360 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till More in the Bottom
-13:18:39.997 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked What We Offer Link
-13:18:40.377 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till the Coursera for Campus
-13:18:46.944 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Learn More Link
-13:18:48.007 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till the Haeding beside The Input Box
-13:18:48.572 [main] INFO  testCases.TC_001_WebDevelopmentTest - FirstName is Entered Successfully
-13:18:48.913 [main] INFO  testCases.TC_001_WebDevelopmentTest - LastName is Entered Successfully
-13:18:49.477 [main] INFO  testCases.TC_001_WebDevelopmentTest - Email is Entered Successfully
-13:18:50.184 [main] INFO  testCases.TC_001_WebDevelopmentTest - Phone Number is Entered Successfully
-13:18:51.774 [main] INFO  testCases.TC_001_WebDevelopmentTest - Institute Type is Selected Successfully
-13:18:52.067 [main] INFO  testCases.TC_001_WebDevelopmentTest - Institute Name is Entered Successfully
-13:18:52.634 [main] INFO  testCases.TC_001_WebDevelopmentTest - Job Role is Selected Successfully
-13:18:53.195 [main] INFO  testCases.TC_001_WebDevelopmentTest - Department is Selected Successfully
-13:18:53.483 [main] INFO  testCases.TC_001_WebDevelopmentTest - Describe is Selected Successfully
-13:18:53.770 [main] INFO  testCases.TC_001_WebDevelopmentTest - Expected Learner is Selected Successfully
-13:18:54.459 [main] INFO  testCases.TC_001_WebDevelopmentTest - Country is Selected Successfully
-13:18:54.827 [main] INFO  testCases.TC_001_WebDevelopmentTest - State is Selected Successfully
-13:18:55.323 [main] INFO  testCases.TC_001_WebDevelopmentTest - Submit Button is Clicked Successfully
-13:18:56.065 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till The Heading Beside of Input Boxes
-13:18:58.343 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Message of Invalid Email Address
-13:18:58.344 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_003_ForEnterpriseTest ****
-15:21:47.564 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Opened *****
-15:21:47.746 [main] INFO  factory.CucumberBaseClass - Navigated to Coursera Home Page
-15:22:21.529 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Closed *****
-15:22:34.719 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Opened *****
-15:22:34.881 [main] INFO  factory.CucumberBaseClass - ***** Test Case Two Started successfully *****
-15:23:51.869 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Closed *****
-15:23:59.881 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Opened *****
-15:24:01.191 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Closed *****
-15:25:02.897 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Opened *****
-15:25:03.874 [main] INFO  factory.CucumberBaseClass - Navigated to Coursera Home Page
-15:25:08.005 [main] INFO  factory.CucumberBaseClass - Successfully entered Web Development course
-15:25:15.972 [main] INFO  factory.CucumberBaseClass - Clicked the Search Button
-15:25:16.504 [main] INFO  factory.CucumberBaseClass - Scrolled till the Subject checkbox
-15:25:17.248 [main] INFO  factory.CucumberBaseClass - Successfully clicked the English Language
-15:25:19.389 [main] INFO  factory.CucumberBaseClass - Scrolled till the Specific chechbox
-15:25:20.273 [main] INFO  factory.CucumberBaseClass - Successfully clicked the Beginner level
-15:25:20.879 [main] INFO  factory.CucumberBaseClass - Scrolled till the Filter Heading
-15:25:23.828 [main] INFO  factory.CucumberBaseClass - Successfully verified and Clicked Course one
-15:25:24.883 [main] INFO  factory.CucumberBaseClass - Navigated to the child page
-15:25:31.435 [main] INFO  factory.CucumberBaseClass - Successfully verified Rating one
-15:25:31.735 [main] INFO  factory.CucumberBaseClass - Successfully verified Duration One
-15:25:31.882 [main] INFO  factory.CucumberBaseClass - Navigated to the parent page
-15:25:33.406 [main] INFO  factory.CucumberBaseClass - Successfully verified the Second Course and Clicked it
-15:25:34.651 [main] INFO  factory.CucumberBaseClass - Navigated to the child page
-15:25:40.550 [main] INFO  factory.CucumberBaseClass - Scrolled till the Financial Heading
-15:25:42.477 [main] INFO  factory.CucumberBaseClass - Successfully verified the Rating Two
-15:25:43.414 [main] INFO  factory.CucumberBaseClass - Successfully verified the Duration Two
-15:25:43.959 [main] INFO  factory.CucumberBaseClass - Navigated to the Parent page
-15:25:46.245 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Closed *****
-15:26:31.381 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Opened *****
-15:26:32.001 [main] INFO  factory.CucumberBaseClass - ***** Test Case Two Started successfully *****
-15:27:10.055 [main] INFO  factory.CucumberBaseClass - New Course Name has been entered in the SearchBox
-15:27:10.508 [main] INFO  factory.CucumberBaseClass - Successfully clicked the Search Button
-15:27:13.140 [main] INFO  factory.CucumberBaseClass - Scrolled till the Science checkbox
-15:27:14.585 [main] INFO  factory.CucumberBaseClass - Successfully clicked the Show More option in Languages
-15:27:16.503 [main] INFO  factory.CucumberBaseClass - UnCheched the English checkbox
-15:27:30.388 [main] INFO  factory.CucumberBaseClass - Successfully verified and print all the Languages
-15:27:30.720 [main] INFO  factory.CucumberBaseClass - Clicked the close button
-15:27:31.566 [main] INFO  factory.CucumberBaseClass - Scrolled till University checkbox
-15:27:35.385 [main] INFO  factory.CucumberBaseClass - Successfully verified and printed all Levels
-15:27:38.404 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Closed *****
-15:28:50.370 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Opened *****
-15:28:50.985 [main] INFO  factory.CucumberBaseClass - ****** Test Case Three Started Successfully *****
-15:28:51.377 [main] INFO  factory.CucumberBaseClass - Driver is the Coursera Home Page
-15:28:52.095 [main] INFO  factory.CucumberBaseClass - Scrolled till the bottom of the page
-15:30:03.447 [main] INFO  factory.CucumberBaseClass - Clicked the For Enterprise option
-15:30:04.308 [main] INFO  factory.CucumberBaseClass - Scrolled till bottom of the Page
-15:30:45.606 [main] INFO  factory.CucumberBaseClass - Successfully clicked the What We Offer option
-15:30:45.998 [main] INFO  factory.CucumberBaseClass - Scrolled till the Campus for Coursera
-15:31:22.382 [main] INFO  factory.CucumberBaseClass - Successfully clicked the Learn More Link
-15:31:24.609 [main] INFO  factory.CucumberBaseClass - Scrolled till the Sales Heading
-15:31:25.378 [main] INFO  factory.CucumberBaseClass - Successfully entered the First Name
-15:31:25.748 [main] INFO  factory.CucumberBaseClass - Successfully entered the Last Name
-15:31:26.375 [main] INFO  factory.CucumberBaseClass - Successfully entered the Email Address
-15:31:26.661 [main] INFO  factory.CucumberBaseClass - Successfully entered the Phone Number
-15:31:27.466 [main] INFO  factory.CucumberBaseClass - Successfully selected the Institute Type
-15:31:27.835 [main] INFO  factory.CucumberBaseClass - Successfully entered the Institute Name
-15:31:28.680 [main] INFO  factory.CucumberBaseClass - Successfully selected the Job Role
-15:31:29.486 [main] INFO  factory.CucumberBaseClass - Successfully selected the Department
-15:31:30.379 [main] INFO  factory.CucumberBaseClass - Successfully selected the Describe
-15:31:30.811 [main] INFO  factory.CucumberBaseClass - Successfully selected the Expected Learner
-15:31:31.593 [main] INFO  factory.CucumberBaseClass - Successfully selected the Country
-15:31:32.038 [main] INFO  factory.CucumberBaseClass - Successfully selected the State
-15:31:32.674 [main] INFO  factory.CucumberBaseClass - Successfully Clicked the Submit button
-15:31:32.746 [main] INFO  factory.CucumberBaseClass - Scrolled till the sales heading
-15:32:07.438 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Closed *****
-15:39:12.864 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_001_WebDevelopmentTest ****
-15:40:13.840 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course Name Sent Successfully
-15:40:18.302 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked on Search Button
-15:40:18.959 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Subject
-15:40:19.692 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked English Language
-15:40:21.183 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Specific
-15:40:21.908 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Begginer CheckBox
-15:40:22.202 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Filter
-15:40:25.016 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
-15:40:25.618 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To First Course Name
-15:40:29.937 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course One
-15:40:30.089 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course One
-15:40:30.193 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To Parent Page
-15:40:31.120 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
-15:40:32.027 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Second Course Page
-15:41:27.164 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled till Financial
-15:41:27.384 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course Two
-15:41:27.908 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course Two
-15:41:28.561 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Parent Page
-15:41:28.561 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_001_WebDevelopmentTest ****
-15:41:29.211 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_002_LanguageLearningTest ****
-15:41:30.947 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Cleared The Course Name And Entered New Course
-15:41:31.316 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Search Button
-15:41:31.756 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Science
-15:41:32.133 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Show More in Language CheckBox
-15:41:34.103 [main] INFO  testCases.TC_001_WebDevelopmentTest - Unclicking The English Language
-15:41:40.840 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printing Total
-15:41:41.039 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Close Button in All Language Box
-15:41:41.466 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till University CheckBox
-15:41:42.597 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed All The Levels
-15:41:42.597 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finished TC_002_LanguageLearningTest ****
-15:41:42.982 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_003_ForEnterpriseTest ****
-15:42:20.339 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicking the Title Icon To naviage Back
-15:42:20.881 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till the Bottom of the Page
-15:44:07.141 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicking the ForEnterPrise Link
-15:44:08.542 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till More in the Bottom
-15:44:42.788 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked What We Offer Link
-15:44:43.140 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till the Coursera for Campus
-15:45:22.765 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Learn More Link
-15:45:23.545 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till the Haeding beside The Input Box
-15:45:23.908 [main] INFO  testCases.TC_001_WebDevelopmentTest - FirstName is Entered Successfully
-15:45:24.181 [main] INFO  testCases.TC_001_WebDevelopmentTest - LastName is Entered Successfully
-15:45:24.682 [main] INFO  testCases.TC_001_WebDevelopmentTest - Email is Entered Successfully
-15:45:25.143 [main] INFO  testCases.TC_001_WebDevelopmentTest - Phone Number is Entered Successfully
-15:45:25.825 [main] INFO  testCases.TC_001_WebDevelopmentTest - Institute Type is Selected Successfully
-15:45:26.420 [main] INFO  testCases.TC_001_WebDevelopmentTest - Institute Name is Entered Successfully
-15:45:27.130 [main] INFO  testCases.TC_001_WebDevelopmentTest - Job Role is Selected Successfully
-15:45:28.114 [main] INFO  testCases.TC_001_WebDevelopmentTest - Department is Selected Successfully
-15:45:28.634 [main] INFO  testCases.TC_001_WebDevelopmentTest - Describe is Selected Successfully
-15:45:29.079 [main] INFO  testCases.TC_001_WebDevelopmentTest - Expected Learner is Selected Successfully
-15:45:29.838 [main] INFO  testCases.TC_001_WebDevelopmentTest - Country is Selected Successfully
-15:45:30.244 [main] INFO  testCases.TC_001_WebDevelopmentTest - State is Selected Successfully
-15:45:30.810 [main] INFO  testCases.TC_001_WebDevelopmentTest - Submit Button is Clicked Successfully
-15:45:31.299 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till The Heading Beside of Input Boxes
-15:45:41.148 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Message of Invalid Email Address
-15:45:41.148 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_003_ForEnterpriseTest ****
+09:38:54.334 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_001_WebDevelopmentTest ****
+09:38:57.749 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course Name Sent Successfully
+09:39:19.043 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked on Search Button
+09:39:19.608 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Subject
+09:39:21.029 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked English Language
+09:39:21.328 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Specific
+09:39:21.794 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Begginer CheckBox
+09:39:22.103 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Filter
+09:39:24.365 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
+09:39:25.002 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To First Course Name
+09:39:51.116 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course One
+09:39:51.255 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course One
+09:39:51.382 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To Parent Page
+09:39:52.259 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
+09:39:53.027 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Second Course Page
+09:40:18.218 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled till Financial
+09:40:18.380 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course Two
+09:40:18.589 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course Two
+09:40:18.755 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Parent Page
+09:40:18.755 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_001_WebDevelopmentTest ****
+09:40:19.155 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_002_LanguageLearningTest ****
+09:40:20.697 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Cleared The Course Name And Entered New Course
+09:40:21.196 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Search Button
+09:40:21.871 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Science
+09:40:22.938 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Show More in Language CheckBox
+09:40:23.961 [main] INFO  testCases.TC_001_WebDevelopmentTest - Unclicking The English Language
+09:40:28.581 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printing Total
+09:40:28.831 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Close Button in All Language Box
+09:40:29.201 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till University CheckBox
+09:40:30.392 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed All The Levels
+09:40:30.392 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finished TC_002_LanguageLearningTest ****
+09:40:30.838 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_003_ForEnterpriseTest ****
+09:40:56.455 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicking the Title Icon To naviage Back
+09:40:56.978 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till the Bottom of the Page
+09:41:23.186 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicking the ForEnterPrise Link
+09:41:23.828 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till More in the Bottom
+09:41:47.820 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked What We Offer Link
+09:41:48.100 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till the Coursera for Campus
+09:42:13.916 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Learn More Link
+09:42:15.300 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till the Haeding beside The Input Box
+09:42:15.680 [main] INFO  testCases.TC_001_WebDevelopmentTest - FirstName is Entered Successfully
+09:42:15.984 [main] INFO  testCases.TC_001_WebDevelopmentTest - LastName is Entered Successfully
+09:42:16.468 [main] INFO  testCases.TC_001_WebDevelopmentTest - Email is Entered Successfully
+09:42:16.920 [main] INFO  testCases.TC_001_WebDevelopmentTest - Phone Number is Entered Successfully
+09:42:17.521 [main] INFO  testCases.TC_001_WebDevelopmentTest - Institute Type is Selected Successfully
+09:42:17.793 [main] INFO  testCases.TC_001_WebDevelopmentTest - Institute Name is Entered Successfully
+09:42:18.387 [main] INFO  testCases.TC_001_WebDevelopmentTest - Job Role is Selected Successfully
+09:42:19.492 [main] INFO  testCases.TC_001_WebDevelopmentTest - Department is Selected Successfully
+09:42:19.982 [main] INFO  testCases.TC_001_WebDevelopmentTest - Describe is Selected Successfully
+09:42:20.380 [main] INFO  testCases.TC_001_WebDevelopmentTest - Expected Learner is Selected Successfully
+09:42:20.993 [main] INFO  testCases.TC_001_WebDevelopmentTest - Country is Selected Successfully
+09:42:21.262 [main] INFO  testCases.TC_001_WebDevelopmentTest - State is Selected Successfully
+09:42:21.618 [main] INFO  testCases.TC_001_WebDevelopmentTest - Submit Button is Clicked Successfully
+09:42:22.056 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till The Heading Beside of Input Boxes
+09:42:25.009 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Message of Invalid Email Address
+09:42:25.009 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_003_ForEnterpriseTest ****
+14:54:13.612 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_001_WebDevelopmentTest ****
+14:54:16.800 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course Name Sent Successfully
+14:54:25.071 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked on Search Button
+14:54:25.565 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Subject
+14:54:26.374 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked English Language
+14:54:27.141 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Specific
+14:54:27.444 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Begginer CheckBox
+14:54:27.739 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Filter
+14:54:29.859 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
+14:54:30.785 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To First Course Name
+14:54:37.363 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course One
+14:54:37.486 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course One
+14:54:37.604 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To Parent Page
+14:54:38.490 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
+14:54:39.197 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Second Course Page
+14:54:45.773 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled till Financial
+14:54:45.922 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course Two
+14:54:46.316 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course Two
+14:54:46.643 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Parent Page
+14:54:46.644 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_001_WebDevelopmentTest ****
+14:54:47.221 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_002_LanguageLearningTest ****
+14:54:56.712 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Cleared The Course Name And Entered New Course
+14:55:00.744 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_003_ForEnterpriseTest ****
+14:57:26.286 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_001_WebDevelopmentTest ****
+14:57:31.242 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course Name Sent Successfully
+14:57:39.828 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked on Search Button
+14:57:40.961 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Subject
+14:57:42.137 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked English Language
+14:57:42.370 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Specific
+14:57:42.753 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Begginer CheckBox
+14:57:43.038 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Filter
+14:57:44.834 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
+14:57:45.551 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To First Course Name
+14:57:51.673 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course One
+14:57:51.900 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course One
+14:57:52.280 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To Parent Page
+14:57:53.250 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
+14:57:54.068 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Second Course Page
+14:57:59.450 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled till Financial
+14:57:59.587 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course Two
+14:57:59.812 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course Two
+14:57:59.946 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Parent Page
+14:57:59.946 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_001_WebDevelopmentTest ****
+14:58:00.453 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_002_LanguageLearningTest ****
+14:58:01.554 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Cleared The Course Name And Entered New Course
+14:58:01.992 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Search Button
+14:58:02.900 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Science
+14:58:03.502 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Show More in Language CheckBox
+14:58:04.431 [main] INFO  testCases.TC_001_WebDevelopmentTest - Unclicking The English Language
+14:58:07.640 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printing Total
+14:58:07.806 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Close Button in All Language Box
+14:58:08.358 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till University CheckBox
+14:58:09.195 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed All The Levels
+14:58:09.195 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finished TC_002_LanguageLearningTest ****
+14:58:09.797 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_003_ForEnterpriseTest ****
+14:58:16.325 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicking the Title Icon To naviage Back
+14:58:16.916 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till the Bottom of the Page
+14:58:27.487 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicking the ForEnterPrise Link
+14:58:28.533 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till More in the Bottom
+14:58:35.884 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked What We Offer Link
+14:58:36.309 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till the Coursera for Campus
+14:58:42.298 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Learn More Link
+14:58:43.700 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till the Haeding beside The Input Box
+14:58:44.219 [main] INFO  testCases.TC_001_WebDevelopmentTest - FirstName is Entered Successfully
+14:58:44.643 [main] INFO  testCases.TC_001_WebDevelopmentTest - LastName is Entered Successfully
+14:58:45.598 [main] INFO  testCases.TC_001_WebDevelopmentTest - Email is Entered Successfully
+14:58:46.588 [main] INFO  testCases.TC_001_WebDevelopmentTest - Phone Number is Entered Successfully
+14:58:47.682 [main] INFO  testCases.TC_001_WebDevelopmentTest - Institute Type is Selected Successfully
+14:58:48.105 [main] INFO  testCases.TC_001_WebDevelopmentTest - Institute Name is Entered Successfully
+14:58:48.799 [main] INFO  testCases.TC_001_WebDevelopmentTest - Job Role is Selected Successfully
+14:58:49.624 [main] INFO  testCases.TC_001_WebDevelopmentTest - Department is Selected Successfully
+14:58:50.059 [main] INFO  testCases.TC_001_WebDevelopmentTest - Describe is Selected Successfully
+14:58:50.397 [main] INFO  testCases.TC_001_WebDevelopmentTest - Expected Learner is Selected Successfully
+14:58:51.118 [main] INFO  testCases.TC_001_WebDevelopmentTest - Country is Selected Successfully
+14:58:51.495 [main] INFO  testCases.TC_001_WebDevelopmentTest - State is Selected Successfully
+14:58:52.459 [main] INFO  testCases.TC_001_WebDevelopmentTest - Submit Button is Clicked Successfully
+14:58:53.103 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till The Heading Beside of Input Boxes
+14:58:55.679 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Message of Invalid Email Address
+14:58:55.679 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_003_ForEnterpriseTest ****
+15:53:25.027 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_001_WebDevelopmentTest ****
+15:53:27.820 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course Name Sent Successfully
+15:54:02.426 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked on Search Button
+15:54:02.936 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Subject
+15:54:03.802 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked English Language
+15:54:06.207 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Specific
+15:54:07.135 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Begginer CheckBox
+15:54:07.488 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Filter
+15:54:09.910 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
+15:54:10.787 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To First Course Name
+15:54:47.162 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course One
+15:54:47.408 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course One
+15:54:47.550 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To Parent Page
+15:54:48.578 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
+15:54:49.132 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Second Course Page
+15:55:08.176 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled till Financial
+15:55:08.784 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course Two
+15:55:09.875 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course Two
+15:55:10.833 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Parent Page
+15:55:10.833 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_001_WebDevelopmentTest ****
+15:55:11.848 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_002_LanguageLearningTest ****
+15:55:12.400 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_003_ForEnterpriseTest ****
+15:56:08.390 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_001_WebDevelopmentTest ****
+15:56:11.755 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course Name Sent Successfully
+15:56:19.171 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked on Search Button
+15:56:19.699 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Subject
+15:56:20.162 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked English Language
+15:56:21.347 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Specific
+15:56:22.053 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Begginer CheckBox
+15:56:22.308 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Filter
+15:56:23.886 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
+15:56:24.577 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To First Course Name
+15:56:31.903 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course One
+15:56:32.398 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course One
+15:56:32.853 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To Parent Page
+15:56:33.715 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
+15:56:34.336 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Second Course Page
+15:56:39.499 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled till Financial
+15:56:39.680 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course Two
+15:56:39.927 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course Two
+15:56:40.376 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Parent Page
+15:56:40.377 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_001_WebDevelopmentTest ****
+15:56:40.920 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_002_LanguageLearningTest ****
+15:56:42.324 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Cleared The Course Name And Entered New Course
+15:56:42.721 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Search Button
+15:56:43.142 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Science
+15:56:43.395 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Show More in Language CheckBox
+15:56:44.538 [main] INFO  testCases.TC_001_WebDevelopmentTest - Unclicking The English Language
+15:56:47.526 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printing Total
+15:56:47.691 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Close Button in All Language Box
+15:56:48.045 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till University CheckBox
+15:56:48.727 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed All The Levels
+15:56:48.727 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finished TC_002_LanguageLearningTest ****
+15:56:49.050 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_003_ForEnterpriseTest ****
+15:56:56.150 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicking the Title Icon To naviage Back
+15:56:56.891 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till the Bottom of the Page
+15:57:04.525 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicking the ForEnterPrise Link
+15:57:05.642 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till More in the Bottom
+15:57:11.198 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked What We Offer Link
+15:57:11.465 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till the Coursera for Campus
+15:57:17.568 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Learn More Link
+15:57:18.529 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till the Haeding beside The Input Box
+15:57:19.045 [main] INFO  testCases.TC_001_WebDevelopmentTest - FirstName is Entered Successfully
+15:57:19.348 [main] INFO  testCases.TC_001_WebDevelopmentTest - LastName is Entered Successfully
+15:57:19.852 [main] INFO  testCases.TC_001_WebDevelopmentTest - Email is Entered Successfully
+15:57:20.305 [main] INFO  testCases.TC_001_WebDevelopmentTest - Phone Number is Entered Successfully
+15:57:20.859 [main] INFO  testCases.TC_001_WebDevelopmentTest - Institute Type is Selected Successfully
+15:57:21.059 [main] INFO  testCases.TC_001_WebDevelopmentTest - Institute Name is Entered Successfully
+15:57:21.508 [main] INFO  testCases.TC_001_WebDevelopmentTest - Job Role is Selected Successfully
+15:57:22.010 [main] INFO  testCases.TC_001_WebDevelopmentTest - Department is Selected Successfully
+15:57:22.282 [main] INFO  testCases.TC_001_WebDevelopmentTest - Describe is Selected Successfully
+15:57:22.512 [main] INFO  testCases.TC_001_WebDevelopmentTest - Expected Learner is Selected Successfully
+15:57:23.071 [main] INFO  testCases.TC_001_WebDevelopmentTest - Country is Selected Successfully
+15:57:23.452 [main] INFO  testCases.TC_001_WebDevelopmentTest - State is Selected Successfully
+15:57:24.085 [main] INFO  testCases.TC_001_WebDevelopmentTest - Submit Button is Clicked Successfully
+15:57:24.714 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till The Heading Beside of Input Boxes
+15:57:27.381 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Message of Invalid Email Address
+15:57:27.382 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_003_ForEnterpriseTest ****
+15:58:34.981 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Opened *****
+15:58:35.575 [main] INFO  factory.CucumberBaseClass - Navigated to Coursera Home Page
+15:58:38.334 [main] INFO  factory.CucumberBaseClass - Successfully entered Web Development course
+15:58:44.710 [main] INFO  factory.CucumberBaseClass - Clicked the Search Button
+15:58:45.135 [main] INFO  factory.CucumberBaseClass - Scrolled till the Subject checkbox
+15:58:45.591 [main] INFO  factory.CucumberBaseClass - Successfully clicked the English Language
+15:58:46.594 [main] INFO  factory.CucumberBaseClass - Scrolled till the Specific chechbox
+15:58:46.957 [main] INFO  factory.CucumberBaseClass - Successfully clicked the Beginner level
+15:58:47.246 [main] INFO  factory.CucumberBaseClass - Scrolled till the Filter Heading
+15:58:49.354 [main] INFO  factory.CucumberBaseClass - Successfully verified and Clicked Course one
+15:58:49.975 [main] INFO  factory.CucumberBaseClass - Navigated to the child page
+15:58:57.220 [main] INFO  factory.CucumberBaseClass - Successfully verified Rating one
+15:58:57.507 [main] INFO  factory.CucumberBaseClass - Successfully verified Duration One
+15:58:57.631 [main] INFO  factory.CucumberBaseClass - Navigated to the parent page
+15:58:59.498 [main] INFO  factory.CucumberBaseClass - Successfully verified the Second Course and Clicked it
+15:59:01.274 [main] INFO  factory.CucumberBaseClass - Navigated to the child page
+15:59:06.357 [main] INFO  factory.CucumberBaseClass - Scrolled till the Financial Heading
+15:59:06.597 [main] INFO  factory.CucumberBaseClass - Successfully verified the Rating Two
+15:59:07.038 [main] INFO  factory.CucumberBaseClass - Successfully verified the Duration Two
+15:59:07.723 [main] INFO  factory.CucumberBaseClass - Navigated to the Parent page
+15:59:10.107 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Closed *****
+15:59:21.779 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Opened *****
+15:59:22.382 [main] INFO  factory.CucumberBaseClass - ***** Test Case Two Started successfully *****
+15:59:31.417 [main] INFO  factory.CucumberBaseClass - New Course Name has been entered in the SearchBox
+15:59:31.672 [main] INFO  factory.CucumberBaseClass - Successfully clicked the Search Button
+15:59:33.279 [main] INFO  factory.CucumberBaseClass - Scrolled till the Science checkbox
+15:59:33.967 [main] INFO  factory.CucumberBaseClass - Successfully clicked the Show More option in Languages
+15:59:34.957 [main] INFO  factory.CucumberBaseClass - UnCheched the English checkbox
+15:59:38.459 [main] INFO  factory.CucumberBaseClass - Successfully verified and print all the Languages
+15:59:38.657 [main] INFO  factory.CucumberBaseClass - Clicked the close button
+15:59:39.237 [main] INFO  factory.CucumberBaseClass - Scrolled till University checkbox
+15:59:40.019 [main] INFO  factory.CucumberBaseClass - Successfully verified and printed all Levels
+15:59:41.804 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Closed *****
+15:59:59.040 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Opened *****
+15:59:59.567 [main] INFO  factory.CucumberBaseClass - ****** Test Case Three Started Successfully *****
+15:59:59.702 [main] INFO  factory.CucumberBaseClass - Driver is the Coursera Home Page
+16:00:02.696 [main] INFO  factory.CucumberBaseClass - Scrolled till the bottom of the page
+16:00:12.117 [main] INFO  factory.CucumberBaseClass - Clicked the For Enterprise option
+16:00:13.039 [main] INFO  factory.CucumberBaseClass - Scrolled till bottom of the Page
+16:00:17.940 [main] INFO  factory.CucumberBaseClass - Successfully clicked the What We Offer option
+16:00:18.228 [main] INFO  factory.CucumberBaseClass - Scrolled till the Campus for Coursera
+16:00:23.718 [main] INFO  factory.CucumberBaseClass - Successfully clicked the Learn More Link
+16:00:24.750 [main] INFO  factory.CucumberBaseClass - Scrolled till the Sales Heading
+16:00:25.256 [main] INFO  factory.CucumberBaseClass - Successfully entered the First Name
+16:00:25.676 [main] INFO  factory.CucumberBaseClass - Successfully entered the Last Name
+16:00:26.209 [main] INFO  factory.CucumberBaseClass - Successfully entered the Email Address
+16:00:26.480 [main] INFO  factory.CucumberBaseClass - Successfully entered the Phone Number
+16:00:27.248 [main] INFO  factory.CucumberBaseClass - Successfully selected the Institute Type
+16:00:27.759 [main] INFO  factory.CucumberBaseClass - Successfully entered the Institute Name
+16:00:28.584 [main] INFO  factory.CucumberBaseClass - Successfully selected the Job Role
+16:00:28.999 [main] INFO  factory.CucumberBaseClass - Successfully selected the Department
+16:00:29.623 [main] INFO  factory.CucumberBaseClass - Successfully selected the Describe
+16:00:30.107 [main] INFO  factory.CucumberBaseClass - Successfully selected the Expected Learner
+16:00:30.992 [main] INFO  factory.CucumberBaseClass - Successfully selected the Country
+16:00:31.342 [main] INFO  factory.CucumberBaseClass - Successfully selected the State
+16:00:31.761 [main] INFO  factory.CucumberBaseClass - Successfully Clicked the Submit button
+16:00:31.856 [main] INFO  factory.CucumberBaseClass - Scrolled till the sales heading
+16:00:35.108 [main] INFO  factory.CucumberBaseClass - Successfully verified the Invalid Email message
+16:00:35.108 [main] INFO  factory.CucumberBaseClass - ***** Test Case Three Finished Successfully *****
+16:00:37.006 [main] INFO  factory.CucumberBaseClass - ***** Url has been Successfully Closed *****
+16:02:07.814 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_001_WebDevelopmentTest ****
+16:02:10.427 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course Name Sent Successfully
+16:02:16.328 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked on Search Button
+16:02:17.107 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Subject
+16:02:18.586 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked English Language
+16:02:18.892 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Specific
+16:02:19.554 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Begginer CheckBox
+16:02:19.863 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Filter
+16:02:21.644 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
+16:02:22.399 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To First Course Name
+16:02:29.319 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course One
+16:02:29.455 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course One
+16:02:29.582 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To Parent Page
+16:02:30.503 [main] INFO  testCases.TC_001_WebDevelopmentTest - Course One is Clicked and Successfully Printed
+16:02:32.079 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Second Course Page
+16:02:37.599 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled till Financial
+16:02:38.140 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Rating of Course Two
+16:02:39.197 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Duration of Course Two
+16:02:39.448 [main] INFO  testCases.TC_001_WebDevelopmentTest - Switched To The Parent Page
+16:02:39.449 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_001_WebDevelopmentTest ****
+16:02:40.115 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_002_LanguageLearningTest ****
+16:02:42.588 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Cleared The Course Name And Entered New Course
+16:02:43.057 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Search Button
+16:02:44.272 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till Science
+16:02:44.709 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Show More in Language CheckBox
+16:02:45.535 [main] INFO  testCases.TC_001_WebDevelopmentTest - Unclicking The English Language
+16:02:50.573 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printing Total
+16:02:50.809 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Close Button in All Language Box
+16:02:51.431 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till University CheckBox
+16:02:53.225 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed All The Levels
+16:02:53.225 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finished TC_002_LanguageLearningTest ****
+16:02:53.686 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Starting TC_003_ForEnterpriseTest ****
+16:03:02.077 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicking the Title Icon To naviage Back
+16:03:03.044 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till the Bottom of the Page
+16:03:13.521 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicking the ForEnterPrise Link
+16:03:14.616 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till More in the Bottom
+16:03:20.811 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked What We Offer Link
+16:03:21.181 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till the Coursera for Campus
+16:03:26.854 [main] INFO  testCases.TC_001_WebDevelopmentTest - Clicked Learn More Link
+16:03:28.065 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolling Till the Haeding beside The Input Box
+16:03:28.789 [main] INFO  testCases.TC_001_WebDevelopmentTest - FirstName is Entered Successfully
+16:03:29.188 [main] INFO  testCases.TC_001_WebDevelopmentTest - LastName is Entered Successfully
+16:03:30.147 [main] INFO  testCases.TC_001_WebDevelopmentTest - Email is Entered Successfully
+16:03:30.754 [main] INFO  testCases.TC_001_WebDevelopmentTest - Phone Number is Entered Successfully
+16:03:31.331 [main] INFO  testCases.TC_001_WebDevelopmentTest - Institute Type is Selected Successfully
+16:03:31.607 [main] INFO  testCases.TC_001_WebDevelopmentTest - Institute Name is Entered Successfully
+16:03:32.107 [main] INFO  testCases.TC_001_WebDevelopmentTest - Job Role is Selected Successfully
+16:03:32.775 [main] INFO  testCases.TC_001_WebDevelopmentTest - Department is Selected Successfully
+16:03:33.146 [main] INFO  testCases.TC_001_WebDevelopmentTest - Describe is Selected Successfully
+16:03:33.489 [main] INFO  testCases.TC_001_WebDevelopmentTest - Expected Learner is Selected Successfully
+16:03:34.060 [main] INFO  testCases.TC_001_WebDevelopmentTest - Country is Selected Successfully
+16:03:34.330 [main] INFO  testCases.TC_001_WebDevelopmentTest - State is Selected Successfully
+16:03:34.724 [main] INFO  testCases.TC_001_WebDevelopmentTest - Submit Button is Clicked Successfully
+16:03:35.259 [main] INFO  testCases.TC_001_WebDevelopmentTest - Scrolled Till The Heading Beside of Input Boxes
+16:03:37.705 [main] INFO  testCases.TC_001_WebDevelopmentTest - Successfully Printed Message of Invalid Email Address
+16:03:37.705 [main] INFO  testCases.TC_001_WebDevelopmentTest - **** Finishing TC_003_ForEnterpriseTest ****

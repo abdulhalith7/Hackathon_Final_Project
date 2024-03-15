@@ -100,9 +100,9 @@ public class WebDevelopPage extends BasePage{
 		
 		System.out.println("The Course Details Are:");
 		String CourseName = Course1.getText();
-		a.moveToElement(Course1).click().perform();
 		System.out.println("First Course Name: "+CourseName);
 		ExcelUtility.write("Sheet1", 0, 0, CourseName);
+		a.moveToElement(Course1).click().perform();
 	}
 	
 	public void verifyRating1() throws IOException {

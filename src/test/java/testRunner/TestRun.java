@@ -9,14 +9,14 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(features= {".//Features"},
 				glue="stepDefinition",
 				plugin= {"pretty", "html:reports/myreport.html", 
-				  "rerun:target/rerun.txt",
-				  "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
+						 "rerun:target/rerun.txt",
+						 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 				},
 				
 				dryRun=false,    // checks mapping between scenario steps and step definition methods
 				monochrome=true,    // to avoid junk characters in output
 				publish=true,  // to publish report in cucumber server
-				tags="@Sanity or @Regression"
+				tags="@sanity or @regression"
 		
 		)
 public class TestRun {

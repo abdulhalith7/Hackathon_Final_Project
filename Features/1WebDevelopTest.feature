@@ -1,6 +1,6 @@
 Feature: Test Case One
 
-	@Sanity @Regression
+	@sanity @regression
   Scenario: Web Development Test
     Given the user navigate to Coursera Home page
     When the user enter Web Development in SearchBox

@@ -42,8 +42,12 @@
           <include name="teardown"/>
           <include name="printCourse2"/>
           <include name="printDetails1"/>
+          <include name="clickLevel"/>
           <include name="printDetails2"/>
           <include name="setup"/>
+          <include name="clickLanguage"/>
+          <include name="enterCourseName"/>
+          <include name="printCourse1"/>
         </methods>
       </class> <!-- testCases.TC_001_WebDevelopmentTest -->
     </classes>

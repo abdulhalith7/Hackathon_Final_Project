@@ -1,6 +1,6 @@
 Feature: Test Case Three
 
-	@Sanity @Regression
+	@sanity @segression
   Scenario: For Enterprise Test
     Given the user is on the Home Page
     When the user click the For Enterprise link

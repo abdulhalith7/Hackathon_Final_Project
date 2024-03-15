@@ -1,6 +1,6 @@
 Feature: Test Case Two
 
-	@Sanity @Regression
+	@sanity @regression
   Scenario: Language Learning Test
     Given the user is on the Web Development page
 
